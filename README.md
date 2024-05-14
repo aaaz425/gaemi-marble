@@ -23,5 +23,3 @@ https://seasoned-fire-6f4.notion.site/gaemi-marble-764722298de04f178211d518fdbb5
 
 ## 기획 Figma 링크
 https://www.figma.com/file/MD3dKvUqAl0VlQxnsP1ssJ/%EA%B0%9C%EB%AF%B8%EC%9D%98-%EB%A7%88%EB%B8%94?type=whiteboard&node-id=0%3A1&t=ExrKiW2IMh102Fdh-1
-
-<br/>
